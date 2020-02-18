@@ -1,1 +1,1 @@
-web: gunicorn burkas.wsgi
+web: gunicorn burkas.wsgi --log-file--
