@@ -25,7 +25,7 @@ SECRET_KEY = 'no#^8e=dm!e+xp#!#s#83(gv6k0s1_dy15j_is96pdhp5sb=f^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['burkas-web.herokuapp.com']
 
 
 # Application definition
