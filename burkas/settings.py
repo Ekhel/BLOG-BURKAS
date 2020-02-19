@@ -129,7 +129,7 @@ STATIC_URL = '/static/'
 
 
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media/image_article/')
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 ADMIN_SITE_HEADER = "BURKAS BACKEND"
 ADMIN_SITE_INDEX = "Administrator"
