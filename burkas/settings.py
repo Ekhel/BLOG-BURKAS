@@ -127,6 +127,9 @@ STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 MEDIA_URL = '/media/'
 
+ADMIN_SITE_HEADER = "BURKAS BACKEND"
+ADMIN_SITE_INDEX = "Administrator"
+
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
