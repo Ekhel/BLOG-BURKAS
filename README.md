@@ -28,3 +28,5 @@
     - Deploy ke heroku [Solved]
     - Buat Model Article [Solved]
     - Perbaiki base template [Solved]
+    - Install Django Summernote [Solved]
+    
