@@ -1,0 +1,21 @@
+{% extends 'base_post.html' %}
+{% block content %}
+
+
+<div class="">
+    <div class="row">
+        <div class="tim-typo">
+            <h3 class="title">{{ object.title }}</h3><br/>
+            <p><strong>Penulis : {{ object.user }}, Tanggal, {{ object.date_created }}</strong></p>
+            <hr/>
+        </div>
+        
+        <div class="tim-typo">
+            <p>
+            {{ object.body }}
+            </p>
+        </div>
+    </div>
+</div>
+
+{% endblock content %}

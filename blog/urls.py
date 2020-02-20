@@ -3,8 +3,10 @@ from django.urls import path, include
 from . import views
 from . views import (
     Home,
+    detail,
 )
 
 urlpatterns = [
     path('', Home.as_view(), name='home'),
+    path('<slug:slug>/', detail.as_view(), name='detail'),
 ]
