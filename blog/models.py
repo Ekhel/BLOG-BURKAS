@@ -7,7 +7,7 @@ class Article(models.Model):
     slug = models.SlugField()
     deskripsi = models.CharField(max_length=250)
     body = models.TextField()
-    video = models.CharField(max_length=200)
+    video = models.TextField()
     gambar = models.ImageField(upload_to='article/', default='default.jpg')
     date_created = models.DateField(auto_now_add=True)
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
