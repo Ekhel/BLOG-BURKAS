@@ -19,3 +19,11 @@
 ------------------------------------------------------------------------
 
 ## Progres Pembuatan & Pengembangan
+
+### Michael :
+  * **Jumat 20  Februari 2020**
+    - Buat Project [Solved]
+    - Buat Applikasi blog-burkas [Solved]
+    - Deploy ke heroku [Solved]
+    - Buat Model Article [Solved]
+    - Perbaiki base template [Solved]
