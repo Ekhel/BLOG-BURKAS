@@ -7,8 +7,9 @@
 * Framework :
   - Django 2.2.6
 
-* Database :
-  - PostgreSQL
+* DBMS :
+  - SQLite (Local)
+  - PostgreSQL (On Heroku)
 
 * Template :
   - Backend Default Django
