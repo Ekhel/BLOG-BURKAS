@@ -1,20 +1,25 @@
 {% extends 'base_post.html' %}
 {% block content %}
 
-
 <div class="">
     <div class="row">
         <div class="tim-typo">
             <h3 class="title">{{ object.title }}</h3><br/>
-            <p><strong>Penulis : {{ object.user }}, Tanggal, {{ object.date_created }}</strong></p>
+            <text class="small">
+                <strong>Penulis : {{ object.user }} <br/>
+                Tanggal, {{ object.date_created }}</strong>
+            </text>
             <hr/>
         </div>
-        
-        <div class="tim-typo">
-            {{ object.body }}
+        <div class="tim-typo">   
             <text>
-            
+                {{ object.body|safe }}
             </text>
+        </div>
+        <hr/>
+        <div class="tim-typo">
+            <text>Video Demo : </text> <br/>
+            {{ object.video|safe }}
         </div>
     </div>
 </div>

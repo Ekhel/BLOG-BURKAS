@@ -22,11 +22,16 @@
 ## Progres Pembuatan & Pengembangan
 
 ### Michael :
-  * **Jumat 20  Februari 2020**
+  * **Kamis 20  Februari 2020**
     - Buat Project [Solved]
     - Buat Applikasi blog-burkas [Solved]
     - Deploy ke heroku [Solved]
     - Buat Model Article [Solved]
     - Perbaiki base template [Solved]
     - Install Django Summernote [Solved]
+
+  * **Jumat 21 Februari 2020 [Solved]
+    - Buat Detail Article [Solved]
+    - Buat View Embed Video [Solved]
+    - Buat View Body Article [Solve]
     
