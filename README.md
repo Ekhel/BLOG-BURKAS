@@ -34,4 +34,6 @@
     - Buat Detail Article [Solved]
     - Buat View Embed Video [Solved]
     - Buat View Body Article [Solve]
+    - Buat dan Tambah Disqus Comment [Solved]
+    - Perbaiki View Detail Post [Solved]
     
