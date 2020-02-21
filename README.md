@@ -1,4 +1,6 @@
-# BLOG-BURKAS (Buruh Kasar)
+Django - Travis CI [![Build Status](https://travis-ci.com/Ekhel/BLOG-BURKAS.svg?branch=master)](https://travis-ci.com/Ekhel/BLOG-BURKAS)
+
+# BLOG-BURKAS (Buruh Kasar) 
 
 ![Imgur](https://i.imgur.com/bIaKakh.png)
 
