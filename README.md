@@ -30,9 +30,11 @@
   * Clone Repositori ini (git clone https://github.com/Ekhel/BLOG-BURKAS.git)
   * Pastikan Python Telah Terinstal, Saya Menggunakan Python 3
   * Create Env didalam Project yang telah di clone Saya Menggunakan Windows 10 Pro
-    [x] Buka Command Promt (CMD)
-    [x] Buat ( python -m venv envburkas )
-    [x] Activkan env dalam folder BLOG-BURKAS ( envburkas\Scripts\activate )
+
+    - Buka Command Promt (CMD)
+    - Buat ( python -m venv envburkas )
+    - Activkan env dalam folder BLOG-BURKAS ( envburkas\Scripts\activate )
+    
   * Upgrade pip ( python -m pip install --upgrade pip )
   * Install requirements.txt dari Repositori ( pip install -r requirements.txt )
   * Migrasi database ( python manage.py migrate )
