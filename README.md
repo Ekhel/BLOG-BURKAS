@@ -1,4 +1,4 @@
-# BLOG-BURKAS
+# BLOG-BURKAS (Buruh Kasar)
 
 ![Imgur](https://i.imgur.com/bIaKakh.png)
 
@@ -27,20 +27,23 @@
 
 ## Caran Menjalankan Project :
 
-  * Clone Repositori ini (git clone https://github.com/Ekhel/BLOG-BURKAS.git)
+  * Clone Repositori ini (*git clone https://github.com/Ekhel/BLOG-BURKAS.git*)
   * Pastikan Python Telah Terinstal, Saya Menggunakan Python 3
   * Create Env didalam Project yang telah di clone Saya Menggunakan Windows 10 Pro
 
     - Buka Command Promt (CMD)
-    - Buat ( python -m venv envburkas )
-    - Activkan env dalam folder BLOG-BURKAS ( envburkas\Scripts\activate )
+    - Buat virtual env ( *python -m venv envburkas* )
+    - Activkan env dalam folder BLOG-BURKAS ( *envburkas\Scripts\activate* )
     
-  * Upgrade pip ( python -m pip install --upgrade pip )
-  * Install requirements.txt dari Repositori ( pip install -r requirements.txt )
-  * Migrasi database ( python manage.py migrate )
-  * Triger Migrasi ( python manage.py makemigrations )
-  * Buat Super User ( python manage.py createsuperuser )
-  * Running Project ( python manage.py runserver )
+  * Upgrade pip ( *python -m pip install --upgrade pip* )
+  * Install requirements.txt ( *pip install -r requirements.txt* )
+  * Migrasi database ( *python manage.py migrate* )
+  * Triger Migrasi ( *python manage.py makemigrations* )
+  * Buat Super User ( *python manage.py createsuperuser* )
+
+    - Buat Super User untuk Login Admin
+
+  * Running Project ( *python manage.py runserver* )
 
 ------------------------------------------------------------------------
 
@@ -60,5 +63,5 @@
     - Buat View Embed Video [Solved]
     - Buat View Body Article [Solve]
     - Buat dan Tambah Disqus Comment [Solved]
-    - Perbaiki View Detail Post [Solved]
+    - Perbaiki View Detail Post [NotSolved]
     
