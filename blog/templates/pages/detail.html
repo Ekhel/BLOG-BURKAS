@@ -11,18 +11,22 @@
             </text>
             <hr/>
         </div>
-        <div class="">   
-            <text>
+        <div class="card-body">
+            <div class="col-lg-12">
+                <p>
                 {{ object.body|safe }}
-            </text>
+            </p>
+            </div>   
         </div>
         <hr/>
-        <div class="">
-            <text>Video Demo : </text> <br/>
-            {{ object.video|safe }}
+        <div class="card-body">
+            <div class="col-lg-12">
+                <text>Video Demo : </text> <br/>
+                {{ object.video|safe }}
+            </div>
+            
         </div>
         <hr/>
-        
     </div>
 </div>
 
