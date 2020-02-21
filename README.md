@@ -1,5 +1,7 @@
 # BLOG-BURKAS
 
+![Imgur](https://i.imgur.com/bIaKakh.png)
+
 ## System Requirements :
 * Bahasa Utama :
   - Python 3
@@ -8,14 +10,35 @@
   - Django 2.2.6
 
 * DBMS :
-  - SQLite (Local)
+  - SQLite (On Local)
   - PostgreSQL (On Heroku)
 
 * Template :
   - Backend Default Django
+  - Frontend ![MaterialKit](https://demos.creative-tim.com/material-kit/index.html)
 
 * Services :
   - virtual env
+
+* Web Server
+  - gunicorn
+
+------------------------------------------------------------------------
+
+## Caran Menjalankan Project :
+
+  * Clone Repositori ini (git clone https://github.com/Ekhel/BLOG-BURKAS.git)
+  * Pastikan Python Telah Terinstal, Saya Menggunakan Python 3
+  * Create Env didalam Project yang telah di clone Saya Menggunakan Windows 10 Pro
+    [x] Buka Command Promt (CMD)
+    [x] Buat ( python -m venv envburkas )
+    [x] Activkan env dalam folder BLOG-BURKAS ( envburkas\Scripts\activate )
+  * Upgrade pip ( python -m pip install --upgrade pip )
+  * Install requirements.txt dari Repositori ( pip install -r requirements.txt )
+  * Migrasi database ( python manage.py migrate )
+  * Triger Migrasi ( python manage.py makemigrations )
+  * Buat Super User ( python manage.py createsuperuser )
+  * Running Project ( python manage.py runserver )
 
 ------------------------------------------------------------------------
 
@@ -30,7 +53,7 @@
     - Perbaiki base template [Solved]
     - Install Django Summernote [Solved]
 
-  * **Jumat 21 Februari 2020 [Solved]
+  * **Jumat 21 Februari 2020**
     - Buat Detail Article [Solved]
     - Buat View Embed Video [Solved]
     - Buat View Body Article [Solve]
