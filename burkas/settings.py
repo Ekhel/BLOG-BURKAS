@@ -135,6 +135,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 ADMIN_SITE_HEADER = "BURKAS BACKEND"
 ADMIN_SITE_INDEX = "Administrator"
 
+LOGOUT_REDIRECT_URL = '/'
+
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())

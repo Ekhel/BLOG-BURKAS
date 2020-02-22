@@ -1,6 +1,5 @@
 ## BLOG-BURKAS (Buruh Kasar)
-[![Build Status](https://travis-ci.com/Ekhel/BLOG-BURKAS.svg?branch=master)](https://travis-ci.com/Ekhel/BLOG-BURKAS)
-
+* Travis-CI Build Status: [![Build Status](https://travis-ci.com/Ekhel/BLOG-BURKAS.svg?branch=master)](https://travis-ci.com/Ekhel/BLOG-BURKAS)
 
 ![Imgur](https://i.imgur.com/bIaKakh.png)
 
