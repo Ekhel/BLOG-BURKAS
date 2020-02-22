@@ -66,4 +66,9 @@
     - Buat View Body Article [Solve]
     - Buat dan Tambah Disqus Comment [Solved]
     - Perbaiki View Detail Post [NotSolved]
+
+  * **Sabtu 22 Februari 2020**
+    - Perbaiki Halaman Home [Solved]
+    - Menambahkan Image Path pada List Posting [Solved]
+    - Deploy Heroku Solved [Solved]
     
