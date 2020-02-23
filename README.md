@@ -23,6 +23,7 @@
   - Travis-CI (Continuous Integration)
 
 * Web Server
+  - Host ![BLOG-BUTKAS](https://burkas-web.herokuapp.com)
   - gunicorn
 
 ------------------------------------------------------------------------
