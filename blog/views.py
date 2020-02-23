@@ -7,6 +7,9 @@ class Home(ListView):
     model = Article
     page_title = 'Beranda'
 
+def kontak(request):
+    return render(request, 'pages/contack.html')
+
 class detail(DetailView):
     template_name = 'pages/detail.html'
     model = Article

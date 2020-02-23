@@ -20,6 +20,7 @@
 
 * Services :
   - virtual env
+  - Travis-CI (Continuous Integration)
 
 * Web Server
   - gunicorn
@@ -70,4 +71,9 @@
     - Perbaiki Halaman Home [Solved]
     - Menambahkan Image Path pada List Posting [Solved]
     - Deploy Heroku [Solved]
+
+  * **Minggu 23 Februari 2020**
+    - Buat Halaman Kontak [Solved]
+    - Perbaiki Halaman detail post [Solved]
+    - Buat View Gambar List Post [Solved]
     
