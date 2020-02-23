@@ -1,5 +1,5 @@
 ## BLOG-BURKAS (Buruh Kasar)
-* Travis-CI Build Status: [![Build Status](https://travis-ci.com/Ekhel/BLOG-BURKAS.svg?branch=master)](https://travis-ci.com/Ekhel/BLOG-BURKAS)
+[![Build Status](https://travis-ci.com/Ekhel/BLOG-BURKAS.svg?branch=master)](https://travis-ci.com/Ekhel/BLOG-BURKAS)
 
 ![Imgur](https://i.imgur.com/bIaKakh.png)
 
@@ -62,12 +62,12 @@
   * **Jumat 21 Februari 2020**
     - Buat Detail Article [Solved]
     - Buat View Embed Video [Solved]
-    - Buat View Body Article [Solve]
+    - Buat View Body Article [Solved]
     - Buat dan Tambah Disqus Comment [Solved]
     - Perbaiki View Detail Post [NotSolved]
 
   * **Sabtu 22 Februari 2020**
     - Perbaiki Halaman Home [Solved]
     - Menambahkan Image Path pada List Posting [Solved]
-    - Deploy Heroku Solved [Solved]
+    - Deploy Heroku [Solved]
     
