@@ -18,3 +18,15 @@ class Article(models.Model):
     def __str__(self):
         return self.title
 
+
+class Kategori(models.Model):
+    id_kategori = models.AutoField(primary_key=True)
+    kategori = models.CharField(max_length=50)
+    deskripsi = models.CharField(max_length=200)
+
+    class Meta:
+        ordering = ('id_kategori',)
+
+    def __str__(self):
+        return self.kategori
+

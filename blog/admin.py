@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Article
+from .models import Article, Kategori
 from django_summernote.admin import SummernoteModelAdmin
 
 class PageArticle(SummernoteModelAdmin):
@@ -12,3 +12,4 @@ class PageArticle(SummernoteModelAdmin):
 
 
 admin.site.register(Article,PageArticle)
+admin.site.register(Kategori)

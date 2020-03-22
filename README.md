@@ -1,7 +1,6 @@
 ## BLOG-BURKAS (Buruh Kasar)
 [![Build Status](https://travis-ci.com/Ekhel/BLOG-BURKAS.svg?branch=master)](https://travis-ci.com/Ekhel/BLOG-BURKAS)
-
-![Imgur](https://i.imgur.com/bIaKakh.png)
+[![Gitter](https://badges.gitter.im/jayapura_django/community.svg)](https://gitter.im/jayapura_django/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## System Requirements :
 * Bahasa Utama :
